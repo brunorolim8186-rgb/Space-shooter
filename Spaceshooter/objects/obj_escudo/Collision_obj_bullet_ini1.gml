@@ -1,0 +1,1 @@
+draw_sprite(Tiro_explos_o_completa,0,x,y)
