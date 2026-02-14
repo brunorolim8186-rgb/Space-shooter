@@ -1,0 +1,754 @@
+{
+  "input": [
+    {
+      "module": "Sprite Editor",
+      "combo": "CTRL+SHIFT+E",
+      "cmd": "edit_image",
+      "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "CTRL+I",
+      "cmd": "import_image",
+      "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "CTRL+R",
+      "cmd": "resize_image",
+      "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "CTRL+Space",
+      "cmd": "play_preview",
+      "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "PageDown",
+      "cmd": "jump_to_end",
+      "group": "Jump To End"
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "PageUp",
+      "cmd": "jump_to_start",
+      "group": "Jump To Start"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+B",
+      "cmd": "add_new_background_layer",
+      "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+T",
+      "cmd": "add_new_tile_layer",
+      "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+P",
+      "cmd": "add_new_path_layer",
+      "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+A",
+      "cmd": "add_new_asset_layer",
+      "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+F",
+      "cmd": "add_new_folder_layer",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "D",
+      "cmd": "select_PaintbrushTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "E",
+      "cmd": "select_EraseTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "F",
+      "cmd": "select_FillTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "H",
+      "cmd": "select_ColourRemover",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "V",
+      "cmd": "select_ColourReplacer",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "L",
+      "cmd": "select_LineTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "O",
+      "cmd": "select_ColourPickerTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "R",
+      "cmd": "select_RectangleTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "SHIFT+R",
+      "cmd": "toggle_RectangleTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "C",
+      "cmd": "select_EllipseTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "SHIFT+C",
+      "cmd": "toggle_EllipseTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "S",
+      "cmd": "select_SelectRectTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Q",
+      "cmd": "select_SelectionPaintTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "W",
+      "cmd": "select_MagicWandTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "P",
+      "cmd": "select_PolygonTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "SHIFT+P",
+      "cmd": "toggle_PolygonTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "A",
+      "cmd": "select_ArcTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "U",
+      "cmd": "select_FreeRotateTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Y",
+      "cmd": "select_FlipTool",
+      "group": "Flip"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "X",
+      "cmd": "select_MirrorTool",
+      "group": "Mirror"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Z",
+      "cmd": "select_RotateTool",
+      "group": "Rotate Brush"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "M",
+      "cmd": "select_PanTool",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "T",
+      "cmd": "select_TextTool",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+N",
+      "cmd": "new_sprite",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+E",
+      "cmd": "edit_sprite",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+I",
+      "cmd": "edit_image",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+S",
+      "cmd": "select_sprite",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+M",
+      "cmd": "select_mask",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+K",
+      "cmd": "edit_mask",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+F",
+      "cmd": "open_events_window",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+G",
+      "cmd": "open_parent_window",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+H",
+      "cmd": "open_physics_window",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+J",
+      "cmd": "open_variable_definitions",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+A",
+      "cmd": "add_event",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+P",
+      "cmd": "select_parent",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+O",
+      "cmd": "edit_parent",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+L",
+      "cmd": "add_child",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+B",
+      "cmd": "modify_collision_shape",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+SHIFT+Y",
+      "cmd": "physics_toggle_grid",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+U",
+      "cmd": "physics_snap_to_grid",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "SPACE",
+      "cmd": "play_preview",
+      "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "PageDown",
+      "cmd": "jump_to_end",
+      "group": "Jump To End"
+    },
+    {
+      "module": "Object Editor",
+      "combo": "PageUp",
+      "cmd": "jump_to_start",
+      "group": "Jump To Start"
+    },
+    {
+      "module": "Object Editor",
+      "combo": "CTRL+ALT+T",
+      "cmd": "add_variable",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+SHIFT+N",
+      "cmd": "new_sprite",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+SHIFT+E",
+      "cmd": "edit_sprite",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+SHIFT+I",
+      "cmd": "edit_image",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+SHIFT+S",
+      "cmd": "select_sprite",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+SHIFT+O",
+      "cmd": "open_tileset_properties",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+B",
+      "cmd": "open_brush_builder",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+ALT+T",
+      "cmd": "open_tile_animation",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+A",
+      "cmd": "open_auto_tiling",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "D",
+      "cmd": "tile_pen",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "E",
+      "cmd": "tile_eraser",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "F",
+      "cmd": "tile_fill",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "L",
+      "cmd": "tile_line",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "R",
+      "cmd": "tile_rect",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "S",
+      "cmd": "tile_select",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "A",
+      "cmd": "tile_autotile",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Y",
+      "cmd": "tile_flip",
+      "group": "Flip"
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "X",
+      "cmd": "tile_mirror",
+      "group": "Mirror"
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Z",
+      "cmd": "tile_rotate",
+      "group": "Rotate"
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+F",
+      "cmd": "autotile_add_full_set",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "CTRL+R",
+      "cmd": "autotile_add_transition_set",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Del",
+      "cmd": "autotile_delete_set",
+      "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "G",
+      "cmd": "autotile_show_guide",
+      "group": ""
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "CTRL+A",
+      "cmd": "add_curve",
+      "group": ""
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "CTRL+Equals",
+      "cmd": "zoom_in",
+      "group": "Zoom In"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "CTRL+Minus",
+      "cmd": "zoom_out",
+      "group": "Zoom Out"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "CTRL+F",
+      "cmd": "zoom_fit",
+      "group": "Zoom Fit"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "CTRL+R",
+      "cmd": "set_range",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+SHIFT+O",
+      "cmd": "open_shift_path",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Left",
+      "cmd": "shift_left",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Right",
+      "cmd": "shift_right",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Up",
+      "cmd": "shift_up",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Down",
+      "cmd": "shift_down",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "G",
+      "cmd": "toggle_grid",
+      "group": "Toggle Grid"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+Minus",
+      "cmd": "zoom_out",
+      "group": "Zoom Out"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+Equals",
+      "cmd": "zoom_in",
+      "group": "Zoom In"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+Enter",
+      "cmd": "reset_zoom",
+      "group": "Zoom Reset"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+F",
+      "cmd": "centre_fit",
+      "group": "Zoom Fit"
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "CTRL+SHIFT+O",
+      "cmd": "load_sound",
+      "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "M",
+      "cmd": "mute_sound",
+      "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "Space",
+      "cmd": "play_sound",
+      "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "L",
+      "cmd": "loop_sound",
+      "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "R",
+      "cmd": "rewind",
+      "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "CTRL+SHIFT+M",
+      "cmd": "open_mixer",
+      "group": ""
+    },
+    {
+      "module": "Sound Mixer",
+      "combo": "M",
+      "cmd": "mute_all",
+      "group": ""
+    },
+    {
+      "module": "Sound Mixer",
+      "combo": "Space",
+      "cmd": "play_all",
+      "group": ""
+    },
+    {
+      "module": "Sound Mixer",
+      "combo": "L",
+      "cmd": "loop_all",
+      "group": ""
+    },
+    {
+      "module": "Sound Mixer",
+      "combo": "R",
+      "cmd": "rewind_all",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+A",
+      "cmd": "create_asset",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+C",
+      "cmd": "confirm_create_asset",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+N",
+      "cmd": "ide_toolbar_new",
+	  "group": "New Project"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+O",
+      "cmd": "ide_toolbar_open",
+	  "group": "Open Project"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+S",
+      "cmd": "ide_toolbar_save",
+      "group": "Save"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+F8",
+      "cmd": "ide_toolbar_package",
+      "group": "Create Executable"
+    },
+    {
+      "module": "",
+      "combo": "F6",
+      "cmd": "ide_toolbar_debug",
+      "group": "Debug"
+    },
+    {
+      "module": "",
+      "combo": "F5",
+      "cmd": "ide_toolbar_play",
+      "group": "Run"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+F7",
+      "cmd": "ide_toolbar_clean",
+      "group": "Clean"
+    },
+    {
+      "module": "",
+      "combo": "F1",
+      "cmd": "ide_toolbar_help",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+Minus",
+      "cmd": "ide_toolbar_zoomout",
+      "group": "Zoom Out"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+Enter",
+      "cmd": "ide_toolbar_zoomreset",
+      "group": "Zoom Reset"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+Equals",
+      "cmd": "ide_toolbar_zoomin",
+      "group": "Zoom In"
+    },
+    {
+      "module": "",
+      "combo": "F12",
+      "cmd": "ide_toolbar_collapsedocks",
+      "group": ""
+    },
+    {
+      "module": "TextEditor",
+      "combo": "F6",
+      "cmd": "RestartGame",
+      "group": ""
+    },
+    {
+      "module": "TextEditor",
+      "combo": "F5",
+      "cmd": "Continue",
+      "group": "debugger_continue"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "F11",
+      "cmd": "StepInto",
+      "group": "debugger_step_into"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "F10",
+      "cmd": "StepOver",
+      "group": "debugger_step_over"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "SHIFT+F11",
+      "cmd": "StepOut",
+      "group": "debugger_step_out"
+    },
+    {
+      "module": "Font Editor",
+      "combo": "CTRL+A",
+      "cmd": "add_new_range",
+      "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "CTRL+D",
+      "cmd": "delete_selected_range",
+      "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "CTRL+SHIFT+O",
+      "cmd": "open_options",
+      "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "CTRL+R",
+      "cmd": "regenerate_font_texture",
+      "group": ""
+    }
+  ]
+}

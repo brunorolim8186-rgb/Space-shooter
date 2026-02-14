@@ -1,0 +1,1 @@
+sprite_index = inimigo_explos_o_completa

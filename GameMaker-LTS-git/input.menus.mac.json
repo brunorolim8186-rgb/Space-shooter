@@ -1,0 +1,316 @@
+{
+  "input": [
+    {
+      "module": "",
+      "combo": "Command+T",
+      "cmd": "WorkspaceMenu_GoTo",
+      "group": "GoTo"
+    },
+    {
+      "module": "",
+      "combo": "Command+X",
+      "cmd": "TextEditor_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "TextEditor_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "TextEditor_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Command+A",
+      "cmd": "TextEditor_SelectAll",
+      "group": "Select All"
+    },
+    {
+      "module": "",
+      "combo": "Command+Z",
+      "cmd": "Edit_Menu_Undo",
+      "group": "Undo"
+    },
+    {
+      "module": "",
+      "combo": "Command+Y",
+      "cmd": "Edit_Menu_Redo",
+      "group": "Redo"
+    },
+    {
+      "module": "",
+      "combo": "Command+N",
+      "cmd": "File_Menu_NewProject",
+      "group": "New Project"
+    },
+    {
+      "module": "",
+      "combo": "Command+O",
+      "cmd": "File_Menu_OpenProject",
+      "group": "Open Project"
+    },
+    {
+      "module": "",
+      "combo": "Command+S",
+      "cmd": "File_Menu_Save",
+      "group": "Save"
+    },
+    {
+      "module": "",
+      "combo": "Command+SHIFT+S",
+      "cmd": "File_Menu_SaveAs",
+      "group": "Save As"
+    },
+    {
+      "module": "",
+      "combo": "Command+E",
+      "cmd": "File_Menu_ExportYYZ",
+      "group": "Export Project"
+    },
+    {
+      "module": "Global",
+      "combo": "Command+SHIFT+P",
+      "cmd": "File_Menu_Preferences",
+      "group": "open_prefs_tree"
+    },
+    {
+      "module": "",
+      "combo": "Command+SHIFT+F",
+      "cmd": "Edit_Menu_Search",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Command+F7",
+      "cmd": "Run_Menu_Clean",
+      "group": "Clean"
+    },
+    {
+      "module": "",
+      "combo": "Command+F8",
+      "cmd": "Run_Menu_CreateExecutable",
+      "group": "Create Executable"
+    },
+    {
+      "module": "",
+      "combo": "Command+X",
+      "cmd": "ContextMenu_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "ContextMenu_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "ContextMenu_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Command+D",
+      "cmd": "ContextMenu_DuplicateTrack",
+      "group": "Duplicate"
+    },
+    {
+      "module": "",
+      "combo": "Command+K",
+      "cmd": "TextEditor_CommentSelection",
+      "group": "Comment Line/Selection"
+    },
+    {
+      "module": "",
+      "combo": "Command+SHIFT+K",
+      "cmd": "TextEditor_UncommentSelection",
+      "group": "Uncomment Line/Selection"
+    },
+    {
+      "module": "",
+      "combo": "Command+P",
+      "cmd": "PathEditor_SplineContextMenu_PanToPath",
+      "group": "Pan To Path"
+    },
+    {
+      "module": "",
+      "combo": "Command+R",
+      "cmd": "PathEditor_SplineContextMenu_Reverse",
+      "group": "Reverse Path"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "Command+Enter",
+      "cmd": "TextEditor_ToggleFold",
+      "group": "Expand/Collapse Region"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "Command+ALT+Up",
+      "cmd": "TextEditor_PreviousRegion",
+      "group": "Previous Region"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "Command+ALT+Down",
+      "cmd": "TextEditor_NextRegion",
+      "group": "Next Region"
+    },
+    {
+      "module": "",
+      "combo": "Command+X",
+      "cmd": "ImageEditor_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "Command+X",
+      "cmd": "ImageEditor_CutSelection",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "ImageEditor_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "ImageEditor_CopySelection",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "ImageEditor_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "ImageEditor_PasteFrame",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "ImageEditor_PasteClipboard",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Command+A",
+      "cmd": "ImageEditor_SelectAll",
+      "group": "Select All"
+    },
+    {
+      "module": "",
+      "combo": "Backspace",
+      "cmd": "ImageEditor_DeleteFrames",
+      "group": "Delete"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ImageEditor_InsertFrame",
+      "group": "Insert"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Command+SHIFT+I",
+      "cmd": "ImageEditor_InvertSelection",
+      "group": "Invert Selection"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Command+I",
+      "cmd": "ImageEditor_ImportFromStrip",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Command+SHIFT+A",
+      "cmd": "ImageEditor_AddFromFile",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "SpriteEditor_ContextMenu_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "Command+V",
+      "cmd": "SpriteEditor_ContextMenu_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+SHIFT+E",
+      "cmd": "TimeLine_ContextMenu_EditStep",
+      "group": "Change Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+D",
+      "cmd": "TimeLine_ContextMenu_Duplicate",
+      "group": "Duplicate"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+SHIFT+M",
+      "cmd": "TimeLine_ContextMenu_Merge",
+      "group": "Merge Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+X",
+      "cmd": "TimeLine_ContextMenu_CutMoments",
+      "group": "Cut"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+C",
+      "cmd": "TimeLine_ContextMenu_CopyMoments",
+      "group": "Copy"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+V",
+      "cmd": "TimeLine_ContextMenu_PasteMoments",
+      "group": "Paste"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Command+A",
+      "cmd": "TimeLine_ContextMenu_SelectAll",
+      "group": "Select All"
+    },
+    {
+      "module": "",
+      "combo": "Command+D",
+      "cmd": "ResourceNode_Duplicate",
+      "group": "Duplicate"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "Command+ALT+G",
+      "cmd": "RoomEditor_GenerateTileMapFromImage",
+      "group": "Generate Tile Map"
+    },
+    {
+      "module": "",
+      "combo": "Command+Q",
+      "cmd": "File_Menu_Exit",
+      "group": "Quit"
+    }
+  ]
+}

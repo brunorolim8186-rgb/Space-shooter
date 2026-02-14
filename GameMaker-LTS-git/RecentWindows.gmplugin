@@ -1,0 +1,21 @@
+﻿{
+	"assemblies" : 
+	[
+		{
+			"name" : "RecentWindows",
+			"version": "1.0",
+			"path" : "RecentWindows.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "RecentWindows",
+					"plugin_version": "1.0",
+					"localised_name": "recent_windows_name",
+					"type": "System"
+				}
+			]
+		}
+	]
+}

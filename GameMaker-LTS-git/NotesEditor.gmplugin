@@ -1,0 +1,21 @@
+﻿{
+	"assemblies" : 
+	[
+		{
+			"name" : "NotesEditor",
+			"version": "1.0",
+			"path" : "NotesEditor.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "NotesEditor",
+					"plugin_version": "1.0",
+					"localised_name": "notes_editor_name",
+					"type": "System"
+				}
+			]
+		}
+	]
+}

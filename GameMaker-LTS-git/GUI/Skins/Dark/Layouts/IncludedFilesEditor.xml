@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Layouts>
+  <Layout layout_name="included_files_editor_layout" layout_guid="66ca27c1-a1c9-41fb-9656-983034cf0279">
+    <Window stylename="default_window" override_flow_index="9999999" width="284dpi_px" localise_title="AssetBrowser_IncludedFiles">
+      <Client>
+        <ChildGadgets>
+          <Grid stylename="grid_container" override_flow_index="9999999" grid_rowlayout="['1*', 'auto']">
+            <Cell row="0" column="0" stylename="grid_container_panel" flow_index="0">
+              <ChildGadgets>
+                <TreeView stylename="gadget_treeview" layout_id="tree" layout_guid="e930c9ef-7dcb-4c09-84a3-4f6b95d83e59" override_flow_index="9999999" multi_select="False" accept_dragged_nodes="False" />
+              </ChildGadgets>
+            </Cell>
+            <Cell row="1" column="0" stylename="grid_container_panel" flow_index="0">
+              <ChildGadgets>
+                <Button stylename="button_up" layout_id="open_in_explorer" layout_guid="db8d5458-7317-4ec9-81e0-2a7b316da7c4" override_flow_index="9999999" margin_top="10dpi_px" localise_name="ResourceNode_OpenInExplorer" />
+              </ChildGadgets>
+            </Cell>
+          </Grid>
+        </ChildGadgets>
+      </Client>
+      <Layout layout_name="BasicWindowFrame" layout_guid="f0695f87-de65-4a48-a3a8-9bd5cb5a8d8c" />
+    </Window>
+  </Layout>
+</Layouts>

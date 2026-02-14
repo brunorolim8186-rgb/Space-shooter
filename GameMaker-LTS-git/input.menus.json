@@ -1,0 +1,1717 @@
+{
+  "input": [
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "WorkspaceMenu_Resources",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "WorkspaceMenu_Windows",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+T",
+      "cmd": "WorkspaceMenu_GoTo",
+      "group": "GoTo"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+J",
+      "cmd": "Create Animation Curve",
+      "group": "Create Animation Curve"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+E",
+      "cmd": "Create Extension",
+      "group": "Create Extension"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+F",
+      "cmd": "Create Font",
+      "group": "Create Font"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+N",
+      "cmd": "Create Note",
+      "group": "Create Note"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+O",
+      "cmd": "Create Object",
+      "group": "Create Object"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+P",
+      "cmd": "Create Path",
+      "group": "Create Path"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+R",
+      "cmd": "Create Room",
+      "group": "Create Room"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+C",
+      "cmd": "Create Script",
+      "group": "Create Script"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+G",
+      "cmd": "Create Sequence",
+      "group": "Create Sequence"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+A",
+      "cmd": "Create Shader",
+      "group": "Create Shader"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+U",
+      "cmd": "Create Sound",
+      "group": "Create Sound"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+S",
+      "cmd": "Create Sprite",
+      "group": "Create Sprite"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+B",
+      "cmd": "Create Tile Set",
+      "group": "Create Tile Set"
+    },
+    {
+      "module": "Global",
+      "combo": "ALT+T",
+      "cmd": "Create Timeline",
+      "group": "Create Timeline"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_ExpandChildren",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_ExpandAll",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_CollapseAll",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_ClearRecent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_NewAssetBrowser",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_Create",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Create Extension",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_Edit",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_EditTags",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F2",
+      "cmd": "AssetBrowser_Rename",
+      "group": "Rename"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+D",
+      "cmd": "ResourceNode_Duplicate",
+      "group": "Duplicate"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_AddFavourite",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceNode_AddExisting",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceNode_AddExistingFromLibrary",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Delete",
+      "cmd": "ResourceNode_Delete",
+      "group": "Delete"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_CreateGroup",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "SHIFT+O",
+      "cmd": "ResourceNode_OpenInExplorer",
+      "group": "Open In Explorer"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_AnimCurves_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Extensions_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Fonts_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Notes_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Objects_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Paths_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Rooms_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Scripts_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Sequences_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Shaders_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Sounds_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Sprites_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Tilesets_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceTree_Timelines_Singular",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_ClearFavourites",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+X",
+      "cmd": "TextEditor_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+C",
+      "cmd": "TextEditor_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+V",
+      "cmd": "TextEditor_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+A",
+      "cmd": "TextEditor_SelectAll",
+      "group": "Select All"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+Z",
+      "cmd": "Edit_Menu_Undo",
+      "group": "Undo"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+Y",
+      "cmd": "Edit_Menu_Redo",
+      "group": "Redo"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Window_Close",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "CMenu_CloseAllButThis",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F2",
+      "cmd": "Button_Rename",
+      "group": "Rename"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_StartPage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_Help",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_KnowledgeBase",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_ReportBug",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_LogFile",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_YYG",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_GMC",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_ReleaseNotes",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_RuntimeReleaseNotes",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_SDKS",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_OpenInExplorer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Update_System_fonts",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_Licenses",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Help_About",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+N",
+      "cmd": "File_Menu_NewProject",
+      "group": "New Project"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+O",
+      "cmd": "File_Menu_OpenProject",
+      "group": "Open Project"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "File_Menu_ImportProject",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "File_Menu_RecentProjects",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+S",
+      "cmd": "File_Menu_Save",
+      "group": "Save"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+SHIFT+S",
+      "cmd": "File_Menu_SaveAs",
+      "group": "Save As"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+E",
+      "cmd": "File_Menu_ExportProject",
+      "group": "Export Project"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "File_Menu_NewIDE",
+      "group": ""
+    },
+    {
+      "module": "Global",
+      "combo": "CTRL+SHIFT+P",
+      "cmd": "File_Menu_Preferences",
+      "group": "open_prefs_tree"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "File_Menu_MyAccount",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "File_Menu_Logout",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "ALT+F4",
+      "cmd": "File_Menu_Exit",
+      "group": "Quit"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+SHIFT+F",
+      "cmd": "Edit_Menu_Search",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F5",
+      "cmd": "Run_Menu_Run",
+      "group": "Run"
+    },
+    {
+      "module": "",
+      "combo": "F6",
+      "cmd": "Run_Menu_RunDebug",
+      "group": "Debug"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+F7",
+      "cmd": "Run_Menu_Clean",
+      "group": "Clean"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+F8",
+      "cmd": "Run_Menu_CreateExecutable",
+      "group": "Create Executable"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_AssetBrowser",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Output",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_SearchResults",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_SourceControl",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Breakpoints",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_CompileErrors",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_SyntaxErrors",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Inspector",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Recent_Windows",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Macros",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_Tutorial",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Marketplace_Go",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Marketplace_Assets",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Marketplace_PurchaseHistory",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Marketplace_UpdatePackage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Marketplace_CreatePackage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Texturepage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_Audiogroups",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_SoundMixer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Views_Menu_ImageGenerator",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Package_CreateLocalPackage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Package_ImportLocalPackage",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_SaveLayout",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_LoadLayout",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "IDEMenu_ResetLayout",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Show Debug panel",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Show Keyboard/Mouse State",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Reload Images",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Check Localised Strings",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Debugger : Attach to Process",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Undo History",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Runtime Paths",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Debug Tools",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Debug Asset Compiler",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Release Asset Compiler",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Runtime Asset Compiler",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Debug Runner",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Release Runner",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Runtime Runner",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Debug Igor",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Release Igor",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Use Runtime Igor",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Font Viewer",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Create",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Clone",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Commit",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Push",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Pull",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_History",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SCM_Conflicts",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+X",
+      "cmd": "ContextMenu_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+C",
+      "cmd": "ContextMenu_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+V",
+      "cmd": "ContextMenu_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+D",
+      "cmd": "ContextMenu_DuplicateTrack",
+      "group": "Duplicate"
+    },
+    {
+      "module": "",
+      "combo": "Delete",
+      "cmd": "ContextMenu_DeleteTrack",
+      "group": "Delete"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SequenceCanvas_Menu_GroupSelected",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F2",
+      "cmd": "Seq_ContextMenu_Rename",
+      "group": "Rename"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+K",
+      "cmd": "TextEditor_CommentSelection",
+      "group": "Comment Line/Selection"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+SHIFT+K",
+      "cmd": "TextEditor_UncommentSelection",
+      "group": "Uncomment Line/Selection"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "TextEditor_TabIn",
+      "group": ""
+    },
+    {
+      "module": "TextEditor",
+      "combo": "SHIFT+Tab",
+      "cmd": "TextEditor_TabOut",
+      "group": "DeTab"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "TextEditor_CodeSnippets",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F1",
+      "cmd": "CodeWindow_Menu_Help",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "TextEditor_Clear",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number1",
+      "cmd": "Block",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number2",
+      "cmd": "If",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number3",
+      "cmd": "If-Else",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number4",
+      "cmd": "For Loop",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number5",
+      "cmd": "For Loop (i..n)",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number6",
+      "cmd": "While Loop",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number7",
+      "cmd": "Do-Until Loop",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number8",
+      "cmd": "Repeat",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number9",
+      "cmd": "Switch",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Number0",
+      "cmd": "With",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "C",
+      "cmd": "Line Comment",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "M",
+      "cmd": "Multi-line Comment",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "R",
+      "cmd": "Region",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RecentWindows_RemoveItem",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RecentWindows_ClearAll",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RecentWindows_MoveToTop",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Create Font",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceNode_SetTextureGroup",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceNode_RegenerateFont",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ResourceNode_NewTextureGroup",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_RoomManager",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_SaveCurrentFilter",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "[Debug]Save",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "[Debug]Load",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "[Debug]ShowSortWeight",
+      "group": "",
+      "isInternal": "true"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_ConfigEditor",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_GameOptions",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AssetBrowser_IncludedFiles",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "AnimCurve_PasteCurve",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Add Placeholder",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Add File",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Remove Selected",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Add Generic Placeholder",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Add GML Placeholder",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Add JS Placeholder",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "CodeWindow_SingleColumn",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "CodeWindow_2Column",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "CodeWindow_3Column",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_AddEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_ViewParentEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_OpenParentObject",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_CutEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_CopyEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_PasteEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_DuplicateEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_ChangeEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_ConvertEventType",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_DeleteEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_InheritParentEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ObjectEditor_OverrideParentEvent",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Create Path",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Del",
+      "cmd": "SplineEditor_DeletePoints",
+      "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+P",
+      "cmd": "PathEditor_SplineContextMenu_PanToPath",
+      "group": "Pan To Path"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "CTRL+R",
+      "cmd": "PathEditor_SplineContextMenu_Reverse",
+      "group": "Reverse Path"
+    },
+    {
+      "module": "",
+      "combo": "X",
+      "cmd": "PathEditor_SplineContextMenu_FlipHorizontalPath",
+      "group": "Mirror"
+    },
+    {
+      "module": "",
+      "combo": "Y",
+      "cmd": "PathEditor_SplineContextMenu_FlipVerticalPath",
+      "group": "Flip"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "PathEditor_ContextMenu_EditPoint",
+      "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+R",
+      "cmd": "RoomEditorMenu_RoomProperties",
+      "group": "Open Room Properties"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+P",
+      "cmd": "RoomEditorMenu_LayerProperties",
+      "group": "Open Layer Properties"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+I",
+      "cmd": "RoomEditorMenu_InstanceCreationOrder",
+      "group": "Open Instance Creation Order"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+L",
+      "cmd": "RoomEditorMenu_LayerView",
+      "group": "Open Layer View"
+    },
+    {
+      "module": "Room Editor",
+      "combo": "CTRL+ALT+G",
+      "cmd": "RoomEditor_GenerateTileMapFromImage",
+      "group": "Generate Tile Map"
+    },
+    {
+      "module": "",
+      "combo": "F2",
+      "cmd": "RoomEditor_RenameLayer",
+      "group": "Rename"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_DeleteLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+D",
+      "cmd": "RoomEditor_DuplicateLayer",
+      "group": "Duplicate"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_AddRootLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_AddSubLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_InheritSubLayers",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_InheritVisibility",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewBackgroundLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewInstanceLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewTileLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewPathLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewAssetLayer",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "RoomEditor_NewFolder",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "TextEditor_RegionsMenu",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "F9",
+      "cmd": "Breakpoint_MenuToggle",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "CTRL+P",
+      "cmd": "GMLVisualNodeWindow_CMenu_PanToThis",
+      "group": "GML Visual Pan To"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "TextEditorPanel_ConvertToGMLVisual",
+      "group": ""
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+M",
+      "cmd": "TextEditor_FoldAllRegions",
+      "group": "FoldRegions"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+U",
+      "cmd": "TextEditor_UnfoldAllRegions",
+      "group": "UnfoldRegions"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+Enter",
+      "cmd": "TextEditor_ToggleFold",
+      "group": "Expand/Collapse Region"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+ALT+Up",
+      "cmd": "TextEditor_PreviousRegion",
+      "group": "Previous Region"
+    },
+    {
+      "module": "TextEditor",
+      "combo": "CTRL+ALT+Down",
+      "cmd": "TextEditor_NextRegion",
+      "group": "Next Region"
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SequenceDopeSheet_Timeline_Frames",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "SequenceDopeSheet_Timeline_Time",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "Shader_ChangeShaderType",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ShaderType_GLSLES",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ShaderType_GLSL",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ShaderType_HLSL11",
+      "group": ""
+    },
+    {
+      "module": "",
+      "combo": "",
+      "cmd": "ShaderType_PSSL",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "SHIFT+A",
+      "cmd": "ImageEditor_AddFrame",
+      "group": "Add Frame"
+    },
+    {
+      "module": "",
+      "combo": "Insert",
+      "cmd": "ImageEditor_InsertFrame",
+      "group": "Insert"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+X",
+      "cmd": "ImageEditor_Cut",
+      "group": "Cut"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+C",
+      "cmd": "SpriteEditor_ContextMenu_Copy",
+      "group": "Copy"
+    },
+    {
+      "module": "",
+      "combo": "CTRL+V",
+      "cmd": "SpriteEditor_ContextMenu_Paste",
+      "group": "Paste"
+    },
+    {
+      "module": "",
+      "combo": "Delete",
+      "cmd": "ImageEditor_DeleteFrames",
+      "group": "Delete"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "CTRL+D",
+      "cmd": "ImageEditor_DuplicateFrames",
+      "group": "Duplicate"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "CTRL+D",
+      "cmd": "ImageEditor_DuplicateLayer",
+      "group": "Duplicate"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "Escape",
+      "cmd": "ImageEditor_CancelSelection",
+      "group": "Cancel"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "CTRL+SHIFT+I",
+      "cmd": "ImageEditor_InvertSelection",
+      "group": "Invert Selection"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "CTRL+SHIFT+A",
+      "cmd": "ImageEditor_AddFromFile",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_CreateFromStrip",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "CTRL+I",
+      "cmd": "ImageEditor_ImportFromStrip",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_ExportToPNG",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_ResizeCanvas",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_CropToSelection",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_AutoTrim",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_ReverseFrames",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Menu_CurrentFrame",
+      "group": "Transform Current Frame"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Menu_AllFrames",
+      "group": "Transform All Frames"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Menu_RotateImageCW",
+      "group": "Rotate Image Clockwise"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Menu_RotateImageACW",
+      "group": "Rotate Image Anti-Clockwise"
+    },
+    {
+      "module": "Image Editor",
+      "combo": "ALT+C",
+      "cmd": "ImageEditor_CentreUnitScale",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "ALT+F",
+      "cmd": "ImageEditor_CentreFit",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_OnionSkinSettings",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Greyscale",
+      "group": ""
+    },
+    {
+      "module": "Image Editor",
+      "combo": "",
+      "cmd": "ImageEditor_Blur",
+      "group": ""
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Insert",
+      "cmd": "TimeLine_ContextMenu_Add",
+      "group": "Add Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "ALT+Enter",
+      "cmd": "TimeLine_ContextMenu_Edit",
+      "group": "Edit Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+SHIFT+E",
+      "cmd": "TimeLine_ContextMenu_EditStep",
+      "group": "Change Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+D",
+      "cmd": "TimeLine_ContextMenu_Duplicate",
+      "group": "Duplicate"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+SHIFT+M",
+      "cmd": "TimeLine_ContextMenu_Merge",
+      "group": "Merge Moment"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "Delete",
+      "cmd": "TimeLine_ContextMenu_RemoveMoments",
+      "group": "Delete"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+X",
+      "cmd": "TimeLine_ContextMenu_CutMoments",
+      "group": "Cut"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+C",
+      "cmd": "TimeLine_ContextMenu_CopyMoments",
+      "group": "Copy"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+V",
+      "cmd": "TimeLine_ContextMenu_PasteMoments",
+      "group": "Paste"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "CTRL+A",
+      "cmd": "TimeLine_ContextMenu_SelectAll",
+      "group": "Select All"
+    },
+    {
+      "module": "Timeline Editor",
+      "combo": "",
+      "cmd": "TimeLine_ConvertType",
+      "group": ""
+    }
+  ]
+}

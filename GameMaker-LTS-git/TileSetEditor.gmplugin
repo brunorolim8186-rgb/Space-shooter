@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "TileSetEditor",
+			"version": "1.0",
+			"path" : "TileSetEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "TileSetEditor",
+					"plugin_version": "1.0",
+					"localised_name": "tile_set_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMTileSet",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

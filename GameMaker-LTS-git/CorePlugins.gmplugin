@@ -1,0 +1,27 @@
+{
+"assemblies" : 
+	[
+		{
+			"name" : "CorePlugins",
+			"version": "1.0",
+			"path": "CorePlugins.dll",
+			"required":  true,
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "CorePlugins",
+					"plugin_version" : "1.0",
+					"localised_name" : "core_plugins_name",
+					"type" : "Resource Editor"
+				}
+			]
+		
+
+		}
+
+
+
+	]
+}

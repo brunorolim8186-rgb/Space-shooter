@@ -1,0 +1,28 @@
+{
+"assemblies" : 
+	[
+		{
+			"name" : "DialogEditor",
+			"version": "1.0",
+			"path" : "DialogEditor.dll",
+			"dependencies" :
+			[
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "DialogEditor",
+					"plugin_version" : "1.0",
+					"localised_name" : "dialog_editor_name",
+					"type" : "System"
+				}
+			]
+		
+
+		}
+
+
+
+	]
+
+}

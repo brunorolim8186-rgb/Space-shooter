@@ -1,0 +1,32 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "SourceControlGit",
+			"version": "1.0",
+			"path" : "SourceControlGit.dll",
+			"dependencies" :
+			[
+				{
+					"name": "CorePlugins",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "SourceControlGit",
+					"plugin_version" : "1.0",
+					"localised_name" : "source_control_git_name",
+					"type" : "System"
+				}
+			]
+		
+
+		}
+
+
+
+	]
+
+}

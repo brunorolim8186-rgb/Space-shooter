@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "RoomEditor",
+			"version": "1.0",
+			"path" : "RoomEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "RoomEditor",
+					"plugin_version": "1.0",
+					"localised_name": "room_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMRoom",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

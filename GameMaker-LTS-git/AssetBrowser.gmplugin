@@ -1,0 +1,21 @@
+﻿{
+	"assemblies" : 
+	[
+		{
+			"name" : "AssetBrowser",
+			"version": "1.0",
+			"path" : "AssetBrowser.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "AssetBrowser",
+					"plugin_version": "1.0",
+					"localised_name": "asset_browser_name",
+					"type": "System"
+				}
+			]
+		}
+	]
+}

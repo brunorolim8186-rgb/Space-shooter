@@ -1,0 +1,382 @@
+{
+  "input": [
+    {
+      "module": "Sprite Editor",
+      "combo": "Command+SHIFT+E",
+      "cmd": "edit_image",
+	  "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "Command+I",
+      "cmd": "import_image",
+	  "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "Command+R",
+      "cmd": "resize_image",
+	  "group": ""
+    },
+    {
+      "module": "Sprite Editor",
+      "combo": "Command+Space",
+      "cmd": "play_preview",
+	  "group": ""
+    },
+	{
+      "module": "Room Editor",
+      "combo": "Command+B",
+      "cmd": "add_new_background_layer",
+	  "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "Command+ALT+T",
+      "cmd": "add_new_tile_layer",
+	  "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "Command+P",
+      "cmd": "add_new_path_layer",
+	  "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "Command+A",
+      "cmd": "add_new_asset_layer",
+	  "group": ""
+    },
+    {
+      "module": "Room Editor",
+      "combo": "Command+F",
+      "cmd": "add_new_folder_layer",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+SHIFT+N",
+      "cmd": "new_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+SHIFT+E",
+      "cmd": "edit_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+I",
+      "cmd": "edit_image",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+SHIFT+S",
+      "cmd": "select_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+SHIFT+M",
+      "cmd": "select_mask",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+K",
+      "cmd": "edit_mask",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+F",
+      "cmd": "open_events_window",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+G",
+      "cmd": "open_parent_window",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+H",
+      "cmd": "open_physics_window",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+J",
+      "cmd": "open_variable_definitions",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+A",
+      "cmd": "add_event",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+P",
+      "cmd": "select_parent",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+SHIFT+O",
+      "cmd": "edit_parent",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+L",
+      "cmd": "add_child",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+B",
+      "cmd": "modify_collision_shape",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+Y",
+      "cmd": "physics_toggle_grid",
+	  "group": ""
+    },
+    {
+      "module": "Object Editor",
+      "combo": "Command+U",
+      "cmd": "physics_snap_to_grid",
+	  "group": ""
+    },
+	{
+      "module": "Object Editor",
+      "combo": "Command+ALT+T",
+      "cmd": "add_variable",
+	  "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "Command+A",
+      "cmd": "add_new_range",
+	  "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "Command+D",
+      "cmd": "delete_selected_range",
+	  "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "Command+SHIFT+O",
+      "cmd": "open_options",
+	  "group": ""
+    },
+    {
+      "module": "Font Editor",
+      "combo": "Command+R",
+      "cmd": "regenerate_font_texture",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+SHIFT+N",
+      "cmd": "new_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+SHIFT+E",
+      "cmd": "edit_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+SHIFT+I",
+      "cmd": "edit_image",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+SHIFT+S",
+      "cmd": "select_sprite",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+SHIFT+O",
+      "cmd": "open_tileset_properties",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+B",
+      "cmd": "open_brush_builder",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+ALT+T",
+      "cmd": "open_tile_animation",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+A",
+      "cmd": "open_auto_tiling",
+	  "group": ""
+    },
+	{
+      "module": "Tileset Editor",
+      "combo": "Command+F",
+      "cmd": "autotile_add_full_set",
+	  "group": ""
+    },
+    {
+      "module": "Tileset Editor",
+      "combo": "Command+R",
+      "cmd": "autotile_add_transition_set",
+	  "group": ""
+    },
+	{
+      "module": "Anim Curve Editor",
+      "combo": "Command+A",
+      "cmd": "add_curve",
+	  "group": ""
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "Command+Equals",
+      "cmd": "zoom_in",
+	  "group": "Zoom In"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "Command+Minus",
+      "cmd": "zoom_out",
+	  "group": "Zoom Out"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "Command+F",
+      "cmd": "zoom_fit",
+	  "group": "Zoom Fit"
+    },
+    {
+      "module": "Anim Curve Editor",
+      "combo": "Command+R",
+      "cmd": "set_range",
+	  "group": ""
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Command+SHIFT+O",
+      "cmd": "open_shift_path",
+	  "group": ""
+    },
+	{
+      "module": "Path Editor",
+      "combo": "Command+Minus",
+      "cmd": "zoom_out",
+	  "group": "Zoom Out"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Command+Equals",
+      "cmd": "zoom_in",
+	  "group": "Zoom In"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Command+Enter",
+      "cmd": "reset_zoom",
+	  "group": "Zoom Reset"
+    },
+    {
+      "module": "Path Editor",
+      "combo": "Command+F",
+      "cmd": "centre_fit",
+	  "group": "Zoom Fit"
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "Command+SHIFT+O",
+      "cmd": "load_sound",
+	  "group": ""
+    },
+    {
+      "module": "Sound Editor",
+      "combo": "Command+SHIFT+M",
+      "cmd": "open_mixer",
+	  "group": ""
+    },
+	{
+      "module": "",
+      "combo": "Command+A",
+      "cmd": "create_asset",
+	  "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Command+C",
+      "cmd": "confirm_create_asset",
+	  "group": ""
+    },
+    {
+      "module": "",
+      "combo": "Command+N",
+      "cmd": "ide_toolbar_new",
+	  "group": "New Project"
+    },
+    {
+      "module": "",
+      "combo": "Command+O",
+      "cmd": "ide_toolbar_open",
+	  "group": "Open Project"
+    },
+    {
+      "module": "",
+      "combo": "Command+S",
+      "cmd": "ide_toolbar_save",
+	  "group": "Save"
+    },
+    {
+      "module": "",
+      "combo": "Command+F8",
+      "cmd": "ide_toolbar_package",
+	  "group": "Create Executable"
+    },
+	{
+      "module": "",
+      "combo": "Command+F7",
+      "cmd": "ide_toolbar_clean",
+	  "group": "Clean"
+    },
+	{
+      "module": "",
+      "combo": "Command+Minus",
+      "cmd": "ide_toolbar_zoomout",
+	  "group": "Zoom Out"
+    },
+    {
+      "module": "",
+      "combo": "Command+Enter",
+      "cmd": "ide_toolbar_zoomreset",
+	  "group": "Zoom Reset"
+    },
+    {
+      "module": "",
+      "combo": "Command+Equals",
+      "cmd": "ide_toolbar_zoomin",
+	  "group": "Zoom In"
+    }
+  ]
+}

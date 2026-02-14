@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "Alice",
+			"version": "1.0",
+			"path" : "Alice.dll",
+			"dependencies": [
+				{
+					"name": "CorePlugins",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "Alice",
+					"plugin_version": "1.0",
+					"localised_name": "alice_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMSound",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

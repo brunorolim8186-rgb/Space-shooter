@@ -1,0 +1,27 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "CommonPluginFunctionality",
+			"version": "1.0",
+			"path" : "CommonPluginFunctionality.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "CommonPluginFunctionality",
+					"plugin_version": "1.0",
+					"localised_name": "common_plugin_functionality_name",
+					"type": "System"
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

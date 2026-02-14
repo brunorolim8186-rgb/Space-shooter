@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "SoundEditor",
+			"version": "1.0",
+			"path" : "SoundEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "SoundEditor",
+					"plugin_version": "1.0",
+					"localised_name": "sound_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMSound",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

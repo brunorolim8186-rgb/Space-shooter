@@ -1,0 +1,13 @@
+1 - Block:{$    |// code here|$}$
+2 - If:if (|condition|) {$    // code here$}$
+3 - If-Else:if (|condition|) {$    // code here$}$else {$    // code here$}$
+4 - For Loop:for (|initialise|; condition; increment) {$    // code here$}$
+5 - For Loop (i..n):for (var i = 0; i < |condition|; ++i) {$    // code here$}$
+6 - While Loop:while (|condition|) {$    // code here$}$
+7 - Do-Until Loop:do {$    |// code here|$} until (condition);$
+8 - Repeat:repeat (|expression|) {$    // code here$}$
+9 - Switch:switch (|expression|) {$    case constant:$        // code here$        break;$    default:$        // code here$        break;$}$
+0 - With:with (|expression|) {$    // code here$}$
+C - Line Comment:// |comment here|
+M - Multi-line Comment:/*$  |comment here|$*/
+R - Region:#region |name here|$#endregion$

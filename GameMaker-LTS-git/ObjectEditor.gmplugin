@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "ObjectEditor",
+			"version": "1.0",
+			"path" : "ObjectEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "ObjectEditor",
+					"plugin_version": "1.0",
+					"localised_name": "object_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMObject",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

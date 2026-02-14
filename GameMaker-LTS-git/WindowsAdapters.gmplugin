@@ -1,0 +1,28 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "WindowsAdapters",
+			"version": "1.0",
+			"path" : "WindowsAdapters.dll",
+			"dependencies" :
+			[
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "WindowsAdapters",
+					"plugin_version" : "1.0",
+					"localised_name" : "windows_adapters_name",
+					"type" : "Resource Editor"
+				}
+			]
+		
+
+		}
+
+
+
+]
+
+}

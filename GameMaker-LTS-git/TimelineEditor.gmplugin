@@ -1,0 +1,42 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "TimelineEditor",
+			"version": "1.0",
+			"path" : "TimelineEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "TimelineEditor",
+					"plugin_version": "1.0",
+					"localised_name": "timeline_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMTimeline",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

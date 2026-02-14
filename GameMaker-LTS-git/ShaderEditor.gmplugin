@@ -1,0 +1,21 @@
+﻿{
+	"assemblies" : 
+	[
+		{
+			"name" : "ShaderEditor",
+			"version": "1.0",
+			"path" : "ShaderEditor.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "ShaderEditor",
+					"plugin_version": "1.0",
+					"localised_name": "shader_editor_name",
+					"type": "System"
+				}
+			]
+		}
+	]
+}

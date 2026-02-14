@@ -1,0 +1,1 @@
+	global.controller_axis_button_pressable = 1

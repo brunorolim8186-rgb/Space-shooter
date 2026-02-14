@@ -1,0 +1,59 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "ImageEditor",
+			"version": "1.0",
+			"path" : "ImageEditor.dll",
+			"dependencies": [
+				{
+					"name": "CommonPluginFunctionality",
+					"version": "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "ImageEditor",
+					"plugin_version": "1.0",
+					"localised_name": "image_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMImage",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				},
+				{
+					"plugin_name": "SpriteEditor",
+					"plugin_version": "1.0",
+					"localised_name": "sprite_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMSprite",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

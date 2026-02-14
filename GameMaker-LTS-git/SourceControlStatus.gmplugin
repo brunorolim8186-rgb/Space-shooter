@@ -1,0 +1,30 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "SourceControlStatus",
+			"version": "1.0",
+			"path" : "SourceControlStatus.dll",
+			"dependencies" :
+			[
+				{
+					"name" : "CorePlugins",
+					"version" : "1.0"
+				},
+				{
+					"name" : "SourceControlGit",
+					"version" : "1.0"
+				}
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "SourceControlStatus",
+					"plugin_version" : "1.0",
+					"localised_name" : "source_control_status_name",
+					"type" : "System"
+				}
+			]
+		}
+	]
+}

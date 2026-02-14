@@ -1,0 +1,28 @@
+{
+"assemblies" : 
+	[
+		{
+			"name" : "DnDMaker",
+			"version": "1.0",
+			"path" : "DnDMaker.dll",
+			"dependencies" :
+			[
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name" : "DnDMaker",
+					"plugin_version" : "1.0",
+					"localised_name" : "dnd_maker_name",
+					"type" : "System"
+				}
+			]
+		
+
+		}
+
+
+
+	]
+
+}

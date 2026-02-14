@@ -1,0 +1,38 @@
+{
+	"assemblies" : 
+	[
+		{
+			"name" : "FontEditor",
+			"version": "1.0",
+			"path" : "FontEditor.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "FontEditor",
+					"plugin_version": "1.0",
+					"localised_name": "font_editor_name",
+					"type": "Resource Editor",
+					"PluginData": 
+						{
+							"Editable": [
+								{
+									"ResourceType": "GMFont",
+									"MinVersion": "2.0",
+									"MaxVersion": "0.0"
+								}
+							]
+						}
+					
+				}
+			]
+			
+
+		}
+
+
+
+	]
+}
+

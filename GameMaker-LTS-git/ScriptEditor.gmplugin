@@ -1,0 +1,21 @@
+﻿{
+	"assemblies" : 
+	[
+		{
+			"name" : "ScriptEditor",
+			"version": "1.0",
+			"path" : "ScriptEditor.dll",
+			"dependencies": [
+			],
+			"contained_plugins" : 
+			[
+				{
+					"plugin_name": "ScriptEditor",
+					"plugin_version": "1.0",
+					"localised_name": "script_editor_name",
+					"type": "System"
+				}
+			]
+		}
+	]
+}
